@@ -1,3 +1,6 @@
+# THIS PACKAGED USES "@react-native-community/masked-view" instead of "@react-native-community/masked-view"
+More informations: https://github.com/chramos/react-native-skeleton-placeholder/issues/64
+
 ## SkeletonPlaceholder
 
 SkeletonPlaceholder is a React Native library to easily create an amazing loading effect with FlexBox.<br/>

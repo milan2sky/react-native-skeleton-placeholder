@@ -16,9 +16,8 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/chramos/react-native-skeleton-placeholder"
+    "url": "https://github.com/milan2sky/react-native-skeleton-placeholder/blob/master/package.json"
   },
-  "author": "Henrique Ramos <chenrique.ramos12@gmail.com> (https://github.com/chramos)",
   "license": "ISC",
   "devDependencies": {
     "@react-native-community/masked-view": "^0.1.11",

@@ -6,6 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "rm -rf ./lib && mkdir ./lib && tsc",
+    "prepare": "npm run build"
     "prepack": "yarn build"
   },
   "keywords": [
